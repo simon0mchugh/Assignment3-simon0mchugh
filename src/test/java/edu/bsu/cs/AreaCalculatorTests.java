@@ -18,4 +18,6 @@ public class AreaCalculatorTests {
     public void areaOfTriangleTest() {
         Assertions.assertEquals(6, AreaCalculator.getAreaOfTriangle(3.0, 4.0));
     }
+
+    // Test comment, ignore me!
 }
